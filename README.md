@@ -16,7 +16,7 @@ This is a simple web application built with Flask that provides a calculator int
 
 ## Process
 
-1. Created an [app.py]([https://github.com/dylpall/docker-project/blob/docker-compose.yml](https://github.com/dylpall/docker-project/blob/main/app.py)) file which represents the web application using Flask.  
+1. Created an [app.py](https://github.com/dylpall/docker-project/blob/main/app.py)) file which represents the web application using Flask.  
 ![image](https://github.com/dylpall/docker-project/assets/112408682/4f2e17b9-364b-4c41-a8b3-219874b023c5)
 * Defines the main Flask application
 * Contains route definitions to handle HTTP requests
