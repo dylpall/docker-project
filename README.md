@@ -45,12 +45,12 @@ This is a simple web application built with Docker that provides a calculator in
 * Defines a multi-container Docker application using Docker Compose
 * Specifies services, networks, and volumes for running the Flask application and any associated services (e.g., database).
 * Configures container settings such as ports, environment variables, and volumes mappings.
-
+---
 6. [Requirements](https://github.com/dylpall/docker-project/blob/main/requirements.txt) TXT File  
 ![image](https://github.com/dylpall/docker-project/assets/112408682/dc55c0e2-353c-4b1d-80a8-1a85b3713480)
 * Had to use 2.0.2 of Flask and Werkzeug because later versions weren't as compatible and causing HELLA issues. [Link to fix](https://github.com/python-restx/flask-restx/issues/460)
 * Ran the requirements.txt file in the `dockerfile` file using PIP
-
+---
 ## Results
 
 Below is a screenshot of the final outcome of the web page.  
