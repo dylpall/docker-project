@@ -13,7 +13,8 @@ This is a simple web application built with Docker that provides a calculator in
 - Docker: [Install Docker](https://docs.docker.com/get-docker/)
 - Docker Compose: [Install Docker Compose](https://docs.docker.com/compose/install/)
 - Docker Hub: [Docker Hub](https://hub.docker.com/)
-
+- Flask: [Flask](https://flask.palletsprojects.com/en/3.0.x/)
+- CSS: [CSS](https://www.w3schools.com/css/)
 ## Process
 
 1. Created an [app.py](https://github.com/dylpall/docker-project/blob/main/app.py) file which represents the web application using Flask.  
@@ -45,9 +46,15 @@ This is a simple web application built with Docker that provides a calculator in
 * Specifies services, networks, and volumes for running the Flask application and any associated services (e.g., database).
 * Configures container settings such as ports, environment variables, and volumes mappings.
 
+6. [Requirements](https://github.com/dylpall/docker-project/blob/main/requirements.txt) TXT File  
+![image](https://github.com/dylpall/docker-project/assets/112408682/dc55c0e2-353c-4b1d-80a8-1a85b3713480)
+* Had to use 2.0.2 of Flask and Werkzeug because later versions weren't as compatible and causing HELLA issues. [Link to fix](https://github.com/python-restx/flask-restx/issues/460)
+* Ran the requirements.txt file in the `dockerfile` file using PIP
+
 ## Results
 
 Below is a screenshot of the final outcome of the web page.  
 ![image](https://github.com/dylpall/docker-project/assets/112408682/1f692b67-758d-4369-b000-c96a187865fe)
 
-[Test Video](https://github.com/dylpall/docker-project/assets/112408682/900b9703-7ba2-4b59-8427-4f3681774774)
+https://github.com/dylpall/docker-project/assets/112408682/900b9703-7ba2-4b59-8427-4f3681774774
+
