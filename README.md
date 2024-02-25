@@ -10,11 +10,11 @@ This is a simple web application built with Docker that provides a calculator in
 
 ## Requirements
 
-- Docker: [Install Docker](https://docs.docker.com/get-docker/)
-- Docker Compose: [Install Docker Compose](https://docs.docker.com/compose/install/)
-- Docker Hub: [Docker Hub](https://hub.docker.com/)
-- Flask: [Flask](https://flask.palletsprojects.com/en/3.0.x/)
-- CSS: [CSS](https://www.w3schools.com/css/)
+- [Install Docker](https://docs.docker.com/get-docker/)
+- [Install Docker Compose](https://docs.docker.com/compose/install/)
+- [Docker Hub](https://hub.docker.com/)
+- [Flask](https://flask.palletsprojects.com/en/3.0.x/)
+- [CSS](https://www.w3schools.com/css/)
 ## Process
 
 1. Created an [app.py](https://github.com/dylpall/docker-project/blob/main/app.py) file which represents the web application using Flask.  
