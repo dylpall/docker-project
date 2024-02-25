@@ -6,7 +6,7 @@ This is a simple web application built with Flask that provides a calculator int
 
 - Allows users to input numbers and select an operation (addition, subtraction, multiplication, division).
 - Performs the selected operation and displays the result to the user.
-- Provides a simple and intuitive web interface for performing calculations.
+- Provides a simple web interface for performing calculations.
 
 ## Requirements
 
@@ -44,3 +44,8 @@ This is a simple web application built with Flask that provides a calculator int
 * Defines a multi-container Docker application using Docker Compose
 * Specifies services, networks, and volumes for running the Flask application and any associated services (e.g., database).
 * Configures container settings such as ports, environment variables, and volumes mappings.
+
+## Results
+
+Below is a screenshot of the final outcome of the web page.  
+![image](https://github.com/dylpall/docker-project/assets/112408682/1f692b67-758d-4369-b000-c96a187865fe)
