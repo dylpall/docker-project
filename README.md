@@ -1,6 +1,6 @@
 # Docker Project Calculator
 
-This is a simple web application built with Flask that provides a calculator interface for performing basic operations.
+This is a simple web application built with Docker that provides a calculator interface for performing basic operations.
 
 ## Features
 
@@ -49,3 +49,5 @@ This is a simple web application built with Flask that provides a calculator int
 
 Below is a screenshot of the final outcome of the web page.  
 ![image](https://github.com/dylpall/docker-project/assets/112408682/1f692b67-758d-4369-b000-c96a187865fe)
+
+[Test Video](https://github.com/dylpall/docker-project/assets/112408682/900b9703-7ba2-4b59-8427-4f3681774774)
