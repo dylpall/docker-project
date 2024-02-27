@@ -58,3 +58,4 @@ Below is a screenshot of the final outcome of the web page.
 
 https://github.com/dylpall/docker-project/assets/112408682/900b9703-7ba2-4b59-8427-4f3681774774
 
+docker01 configuration
